@@ -11,4 +11,4 @@ class Navitems extends Component {
     }
 }
 
-export default Navitems
+export default Navitems;
